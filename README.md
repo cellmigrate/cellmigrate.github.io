@@ -1,4 +1,6 @@
-# 朱强 浙江大学
+# 朱强 浙江大学 
+
+### [https://person.zju.edu.cn/zhuq](https://person.zju.edu.cn/zhuq)
 
 ### 博士 | 研究院 | 博士生导师 | 教育部人工智能协同创新中心 主管
 
